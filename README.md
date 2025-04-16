@@ -6,7 +6,6 @@
 
 ---
 
-- 🌱 I’m currently diving **React**  
 - 📫 How to reach me: **[mail2tara63@gmail.com](mailto:mail2tara63@gmail.com)**  
 
 <h3 align="left">Connect with me:</h3>
